@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Pybank/Pybank.xcodeproj/project.xcworkspace"
+		},
+		{
+			"path": "../../Pybank"
+		}
+	],
+	"settings": {
+		"cmake.options.statusBarVisibility": "visible"
+	}
+}
